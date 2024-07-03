@@ -1,0 +1,490 @@
+{
+    "allAnswers": [
+        "False Dilemma", "Not a Cause for a Cause", "Appeal to Fear", "Hasty Generalization", "Appeal to Ignorance", "No True Scotsman", "Genetic Fallacy", "Guilt by Association", "Affirming the Consequent", "Appeal to Hypocrisy", "Slippery Slope", "Appeal to the Bandwagon", "Ad Hominem", "Circular Reasoning", "Composition and Division", "Straw Man", "Ambiguity", "Appeal to Consequences", "Appeal to Authority", "Tu Quoque", "Appeal to Emotion", "Appeal to Novelty", "Appeal to Tradition", "Appeal to Nature", "Anecdotal Evidence", "Composition Fallacy", "Division Fallacy", "Red Herring", "Post Hoc Ergo Propter Hoc", "Gambler’s Fallacy", "Fallacy of the Single Cause", "Burden of Proof", "False Analogy", "Middle Ground Fallacy", "Appeal to Force", "Argument from Silence", "Continuum/Sorites Fallacy ", "Misleading Vividness", "Texas Sharpshooter Fallacy", "False Equivalence", "Loaded Question", "Naturalistic Fallacy", "Moralistic Fallacy", "Personal Incredulity", "Fallacy of Sunk Costs", "Fallacy of Accident"
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "question": "\"You're either with us or against us.\"",
+            "ca": "False Dilemma",
+            "explanation": "This is a False Dilemma because it presents only two options when there may be more alternatives or nuances to consider. It oversimplifies a complex situation into an 'either/or' choice."
+          },
+          {
+            "id": 2,
+            "question": "\"If you don't vote for this bill, you don't care about education.\"",
+            "ca": "False Dilemma",
+            "explanation": "This is a False Dilemma because it falsely limits the choices to voting for the bill or not caring about education, ignoring other possible positions."
+          },
+          {
+            "id": 3,
+            "question": "\"Either we ban all immigration or we have no control over our borders.\"",
+            "ca": "False Dilemma",
+            "explanation": "This is a False Dilemma because it suggests only two extreme options, ignoring the possibility of controlled or regulated immigration."
+          },
+          {
+            "id": 4,
+            "question": "\"You either love the new policy or you hate progress.\"",
+            "ca": "False Dilemma",
+            "explanation": "This is a False Dilemma because it presents only two extreme views, ignoring the possibility of nuanced opinions on the new policy and progress."
+          },
+          {
+            "id": 5,
+            "question": "\"If we don’t cut down on welfare spending, the economy will collapse.\"",
+            "ca": "False Dilemma",
+            "explanation": "This is a False Dilemma because it presents only two options, ignoring other potential economic solutions that don't involve cutting welfare spending."
+          },
+          {
+            "id": 6,
+            "question": "\"The rooster crowed, then the sun rose. Therefore, the rooster caused the sun to rise.\"",
+            "ca": "Not a Cause for a Cause"
+          },
+          {
+            "id": 7,
+            "question": "\"I wore my lucky socks, and we won the game. My socks must have caused the win.\"",
+            "ca": "Not a Cause for a Cause"
+          },
+          {
+            "id": 8,
+            "question": "\"I didn't take vitamin C, and then I caught a cold. Lack of vitamin C caused my cold.\"",
+            "ca": "Not a Cause for a Cause"
+          },
+          {
+            "id": 9,
+            "question": "\"I forgot to water my plant, and then it rained. My forgetfulness caused the rain.\"",
+            "ca": "Not a Cause for a Cause"
+          },
+          {
+            "id": 10,
+            "question": "\"The stock market went up after the new president took office, so the new president caused the rise.\"",
+            "ca": "Not a Cause for a Cause"
+          },
+          {
+            "id": 11,
+            "question": "\"If you don't support this policy, you'll be putting your family in danger.\"",
+            "ca": "Appeal to Fear"
+          },
+          {
+            "id": 12,
+            "question": "\"Vote for this candidate, or our country will be overrun by criminals.\"",
+            "ca": "Appeal to Fear"
+          },
+          {
+            "id": 13,
+            "question": "\"If we don’t increase the military budget, our enemies will attack us.\"",
+            "ca": "Appeal to Fear"
+          },
+          {
+            "id": 14,
+            "question": "\"If you don't buy this insurance, you could face financial ruin.\"",
+            "ca": "Appeal to Fear"
+          },
+          {
+            "id": 15,
+            "question": "\"If you don’t comply with our demands, your business will be ruined.\"",
+            "ca": "Appeal to Fear"
+          },
+          {
+            "id": 16,
+            "question": "\"My friend got a speeding ticket in that town; all cops there must be corrupt.\"",
+            "ca": "Hasty Generalization"
+          },
+          {
+            "id": 17,
+            "question": "\"I met two rude people from that city; everyone there must be rude.\"",
+            "ca": "Hasty Generalization"
+          },
+          {
+            "id": 18,
+            "question": "\"The first two customers were unhappy, so this product must be terrible.\"",
+            "ca": "Hasty Generalization"
+          },
+          {
+            "id": 19,
+            "question": "\"I saw a teenager vandalizing property; all teenagers must be delinquents.\"",
+            "ca": "Hasty Generalization"
+          },
+          {
+            "id": 20,
+            "question": "\"Three people I know who eat gluten-free are sickly, so gluten-free diets are unhealthy.\"",
+            "ca": "Hasty Generalization"
+          },
+          {
+            "id": 21,
+            "question": "\"No one has proven that aliens don’t exist, so they must be real.\"",
+            "ca": "Appeal to Ignorance"
+          },
+          {
+            "id": 22,
+            "question": "\"There's no evidence that the new drug is unsafe, so it must be safe.\"",
+            "ca": "Appeal to Ignorance"
+          },
+          {
+            "id": 23,
+            "question": "\"You can't prove ghosts aren't real, so they must exist.\"",
+            "ca": "Appeal to Ignorance"
+          },
+          {
+            "id": 24,
+            "question": "\"No one can disprove my claim, so it must be true.\"",
+            "ca": "Appeal to Ignorance"
+          },
+          {
+            "id": 25,
+            "question": "\"Since scientists haven’t found life on Mars, it must be lifeless.\"",
+            "ca": "Appeal to Ignorance"
+          },
+          {
+            "id": 26,
+            "question": "\"No true American would criticize the government.\"",
+            "ca": "No True Scotsman"
+          },
+          {
+            "id": 27,
+            "question": "\"No true fan would ever miss a game.\"",
+            "ca": "No True Scotsman"
+          },
+          {
+            "id": 28,
+            "question": "\"No true environmentalist would drive a gas-guzzling car.\"",
+            "ca": "No True Scotsman"
+          },
+          {
+            "id": 29,
+            "question": "\"No true Christian would commit such a sin.\"",
+            "ca": "No True Scotsman"
+          },
+          {
+            "id": 30,
+            "question": "\"No true artist would sell their work commercially.\"",
+            "ca": "No True Scotsman"
+          },
+          {
+            "id": 31,
+            "question": "\"The idea came from a convicted felon, so it must be worthless.\"",
+            "ca": "Genetic Fallacy"
+          },
+          {
+            "id": 32,
+            "question": "\"You can't trust that study; it was funded by a corporation.\"",
+            "ca": "Genetic Fallacy"
+          },
+          {
+            "id": 33,
+            "question": "\"He’s from a poor background, so his argument must be flawed.\"",
+            "ca": "Genetic Fallacy"
+          },
+          {
+            "id": 34,
+            "question": "\"That theory was proposed by someone from the 19th century, so it can't be accurate.\"",
+            "ca": "Genetic Fallacy"
+          },
+          {
+            "id": 35,
+            "question": "\"The advice came from a politician, so it must be dishonest.\"",
+            "ca": "Genetic Fallacy"
+          },
+          {
+            "id": 36,
+            "question": "\"You’re friends with someone who cheated on their exam, so you must be a cheater too.\"",
+            "ca": "Guilt by Association"
+          },
+          {
+            "id": 37,
+            "question": "\"That activist is supported by a controversial group, so their cause must be bad.\"",
+            "ca": "Guilt by Association"
+          },
+          {
+            "id": 38,
+            "question": "\"You work for a company that once had a scandal, so you must be unethical.\"",
+            "ca": "Guilt by Association"
+          },
+          {
+            "id": 39,
+            "question": "\"He attended a meeting with extremists, so he must share their beliefs.\"",
+            "ca": "Guilt by Association"
+          },
+          {
+            "id": 40,
+            "question": "\"She’s friends with people who often lie, so she must be a liar.\"",
+            "ca": "Guilt by Association"
+          },
+          {
+            "id": 41,
+            "question": "\"If it’s raining, the ground is wet. The ground is wet, so it must be raining.\"",
+            "ca": "Affirming the Consequent"
+          },
+          {
+            "id": 42,
+            "question": "\"If I have the flu, I have a fever. I have a fever, so I must have the flu.\"",
+            "ca": "Affirming the Consequent"
+          },
+          {
+            "id": 43,
+            "question": "\"If she’s a good singer, she’ll win the competition. She won, so she must be a good singer.\"",
+            "ca": "Affirming the Consequent"
+          },
+          {
+            "id": 44,
+            "question": "\"If the car is out of gas, it won’t start. The car won’t start, so it must be out of gas.\"",
+            "ca": "Affirming the Consequent"
+          },
+          {
+            "id": 45,
+            "question": "\"If he’s a fast runner, he’ll win the race. He won the race, so he must be a fast runner.\"",
+            "ca": "Affirming the Consequent"
+          },
+          {
+            "id": 46,
+            "question": "\"You say I shouldn't eat junk food, but I’ve seen you eat it too.\"",
+            "ca": "Appeal to Hypocrisy"
+          },
+          {
+            "id": 47,
+            "question": "\"How can you tell me to be punctual when you're always late?\"",
+            "ca": "Appeal to Hypocrisy"
+          },
+          {
+            "id": 48,
+            "question": "\"You advise me to save money, but you spend extravagantly.\"",
+            "ca": "Appeal to Hypocrisy"
+          },
+          {
+            "id": 49,
+            "question": "\"You criticize my driving, but I’ve seen you make mistakes too.\"",
+            "ca": "Appeal to Hypocrisy"
+          },
+          {
+            "id": 50,
+            "question": "\"How can you tell me to be honest when you’ve lied before?\"",
+            "ca": "Appeal to Hypocrisy"
+          },
+          {
+            "id": 51,
+            "question": "\"If we allow this, it will lead to a cascade of negative events.\"",
+            "ca": "Slippery Slope"
+          },
+          {
+            "id": 52,
+            "question": "\"If we legalize marijuana, soon all drugs will be legal.\"",
+            "ca": "Slippery Slope"
+          },
+          {
+            "id": 53,
+            "question": "\"If we permit this behavior, society will collapse.\"",
+            "ca": "Slippery Slope"
+          },
+          {
+            "id": 54,
+            "question": "\"If we start censoring speech, it will end in complete government control.\"",
+            "ca": "Slippery Slope"
+          },
+          {
+            "id": 55,
+            "question": "\"If we allow same-sex marriage, it will lead to people marrying animals.\"",
+            "ca": "Slippery Slope"
+          },
+          {
+            "id": 56,
+            "question": "\"Everyone is switching to this new phone; you should too.\"",
+            "ca": "Appeal to the Bandwagon"
+          },
+          {
+            "id": 57,
+            "question": "\"Most people believe in this superstition, so it must be true.\"",
+            "ca": "Appeal to the Bandwagon"
+          },
+          {
+            "id": 58,
+            "question": "\"You should wear these clothes; everyone is wearing them.\"",
+            "ca": "Appeal to the Bandwagon"
+          },
+          {
+            "id": 59,
+            "question": "\"Join our club; all your friends are members.\"",
+            "ca": "Appeal to the Bandwagon"
+          },
+          {
+            "id": 60,
+            "question": "\"You should vote for this candidate; they’re leading in the polls.\"",
+            "ca": "Appeal to the Bandwagon"
+          },
+          {
+            "id": 61,
+            "question": "\"Don't listen to his argument; he’s not even educated.\"",
+            "ca": "Ad Hominem"
+          },
+          {
+            "id": 62,
+            "question": "\"She’s a known liar, so her opinion doesn’t matter.\"",
+            "ca": "Ad Hominem"
+          },
+          {
+            "id": 63,
+            "question": "\"He's been in jail, so his views on justice are worthless.\"",
+            "ca": "Ad Hominem"
+          },
+          {
+            "id": 64,
+            "question": "\"You can't trust his advice; he’s always been a failure.\"",
+            "ca": "Ad Hominem"
+          },
+          {
+            "id": 65,
+            "question": "\"Her argument is invalid because she’s a hypocrite.\"",
+            "ca": "Ad Hominem"
+          },
+          {
+            "id": 66,
+            "question": "\"The Bible is true because it says so in the Bible.\"",
+            "ca": "Circular Reasoning"
+          },
+          {
+            "id": 67,
+            "question": "\"I’m right because I say I’m right.\"",
+            "ca": "Circular Reasoning"
+          },
+          {
+            "id": 68,
+            "question": "\"This policy is the best because it’s better than the alternatives.\"",
+            "ca": "Circular Reasoning"
+          },
+          {
+            "id": 69,
+            "question": "\"She’s the best candidate because no one else is as good.\"",
+            "ca": "Circular Reasoning"
+          },
+          {
+            "id": 70,
+            "question": "\"He’s trustworthy because he’s never lied.\"",
+            "ca": "Circular Reasoning"
+          },
+          {
+            "id": 71,
+            "question": "\"The team is excellent, so each member must be excellent.\"",
+            "ca": "Composition and Division"
+          },
+          {
+            "id": 72,
+            "question": "\"This cake is delicious, so each ingredient must be delicious.\"",
+            "ca": "Composition and Division"
+          },
+          {
+            "id": 73,
+            "question": "\"The committee made a wise decision, so each member is wise.\"",
+            "ca": "Composition and Division"
+          },
+          {
+            "id": 74,
+            "question": "\"The company is profitable, so each employee must be productive.\"",
+            "ca": "Composition and Division"
+          },
+          {
+            "id": 75,
+            "question": "\"The car is fast, so every part of it must be fast.\"",
+            "ca": "Composition and Division"
+          },
+          {
+            "id": 76,
+            "question": "\"He says we should improve education; he must want to throw more money at a broken system.\"",
+            "ca": "Straw Man"
+          },
+          {
+            "id": 77,
+            "question": "\"She thinks we should reduce military spending; she must want to leave us defenseless.\"",
+            "ca": "Straw Man"
+          },
+          {
+            "id": 78,
+            "question": "\"You say you’re for environmental regulations, so you must want to shut down all industries.\"",
+            "ca": "Straw Man"
+          },
+          {
+            "id": 79,
+            "question": "\"He wants to increase taxes; he must hate hardworking people.\"",
+            "ca": "Straw Man"
+          },
+          {
+            "id": 80,
+            "question": "\"You support gun control, so you want to take away all our guns.\"",
+            "ca": "Straw Man"
+          },
+          {
+            "id": 81,
+            "question": "\"A feather is light. What is light cannot be dark. Therefore, a feather cannot be dark.\"",
+            "ca": "Ambiguity"
+          },
+          {
+            "id": 82,
+            "question": "\"I have the right to speak, so what I say must be right.\"",
+            "ca": "Ambiguity"
+          },
+          {
+            "id": 83,
+            "question": "\"The sign said 'fine for parking here,' so I thought it was fine to park.\"",
+            "ca": "Ambiguity"
+          },
+          {
+            "id": 84,
+            "question": "\"All trees have bark. Every dog barks. Therefore, every dog is a tree.\"",
+            "ca": "Ambiguity"
+          },
+          {
+            "id": 85,
+            "question": "\"He’s a good person because he’s good at his job.\"",
+            "ca": "Ambiguity"
+          },
+          {
+            "id": 86,
+            "question": "\"We can't accept that the Earth revolves around the sun because it would mean our ancestors were wrong.\"",
+            "ca": "Appeal to Consequences"
+          },
+          {
+            "id": 87,
+            "question": "\"Believing in evolution makes people think life has no meaning, so it can't be true.\"",
+            "ca": "Appeal to Consequences"
+          },
+          {
+            "id": 88,
+            "question": "\"Accepting climate change would hurt the economy, so it must be false.\"",
+            "ca": "Appeal to Consequences"
+          },
+          {
+            "id": 89,
+            "question": "\"If we don't believe in a just world, we would be depressed, so the world must be just.\"",
+            "ca": "Appeal to Consequences"
+          },
+          {
+            "id": 90,
+            "question": "\"If we admit this law is unjust, it would mean our leaders are wrong, so it must be just.\"",
+            "ca": "Appeal to Consequences"
+          },
+          {
+            "id": 91,
+            "question": "\"This diet must work because a celebrity endorses it.\"",
+            "ca": "Appeal to Authority"
+          },
+          {
+            "id": 92,
+            "question": "\"This medication is the best because my favorite doctor recommended it.\"",
+            "ca": "Appeal to Authority"
+          },
+          {
+            "id": 93,
+            "question": "\"This product is superior because a well-known expert says so.\"",
+            "ca": "Appeal to Authority"
+          },
+          {
+            "id": 94,
+            "question": "\"You should believe in this theory because a Nobel Prize winner supports it.\"",
+            "ca": "Appeal to Authority"
+          },
+          {
+            "id": 95,
+            "question": "\"This brand is the best because a famous athlete uses it.\"",
+            "ca": "Appeal to Authority"
+          }
+                    
+    ]
+  }
+
+
