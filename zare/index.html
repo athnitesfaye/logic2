@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            font-size: 48px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello</h1>
+    </div>
+
+    <script>
+        // Check if the current path is "/Verify.txt"
+        if (window.location.pathname === "/Verify.txt") {
+            document.body.innerHTML = `<pre>4e2b9ed1f5bda0824d3edde51a0daad4e45049d3e20769c0ae02e6f167cdbaffe1e94e172d38c4e22b78451305102fd37cda82c6314d13a2daa1c7e128099da4</pre>`;
+            document.title = "Verify.txt";
+        }
+    </script>
+</body>
+</html>
