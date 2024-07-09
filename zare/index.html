@@ -12,6 +12,7 @@
         }
         .container {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
@@ -21,19 +22,26 @@
             font-size: 48px;
             color: #333;
         }
+        .btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Hello</h1>
+        <a href="Verify.txt" class="btn">Go to Test Page</a>
     </div>
-
-    <script>
-        // Check if the current path is "/Verify.txt"
-        if (window.location.pathname === "/Verify.txt") {
-            document.body.innerHTML = `<pre>4e2b9ed1f5bda0824d3edde51a0daad4e45049d3e20769c0ae02e6f167cdbaffe1e94e172d38c4e22b78451305102fd37cda82c6314d13a2daa1c7e128099da4</pre>`;
-            document.title = "Verify.txt";
-        }
-    </script>
 </body>
 </html>
